@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A modern and clean dental clinic interior, conveying professionalism and serenity.",
+      "imageUrl": "https://picsum.photos/seed/h-bg/1200/800",
+      "imageHint": "dental clinic"
+    }
+  ]
 }
